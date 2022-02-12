@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.student-link {
+  cursor: pointer;
+}
+
+.student-link:hover {
+  color: blue;
+}
